@@ -1,4 +1,4 @@
-# BiasAnalize
+# Bias_Analysis_Speech_2_Text
 Analysis of bias in speech transcription by speech_recognition for native and non-native speakers
 We evaluated our model’s performance on two groups of data (source Mozilla Common Voice Dataset):
 
